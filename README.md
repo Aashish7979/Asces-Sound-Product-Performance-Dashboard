@@ -1,8 +1,4 @@
-Here’s a proposed **Data Analytics Project Roadmap** based on the email request:
-
----
-
-### **Project Name**: Department Budget and Performance Analytics Dashboard  
+Asces-Sound-Product-Performance-Dashboard 
 
 ### **Objective**:  
 To create an interactive and comprehensive Power BI dashboard that evaluates department budgets, monitors project performance, and identifies risks of overspending or underperformance. The analysis will provide actionable insights to ensure departments meet budgetary constraints set over a two-year interval and address potential performance issues.
